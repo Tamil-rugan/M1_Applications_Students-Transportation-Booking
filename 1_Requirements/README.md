@@ -1,15 +1,15 @@
 # Requirments
 
 ## Introduction
-   ##### __Student Transportation Booking__ ia an web application that enables users(Students) to book their travelling tickets. Students 
-  Transportation Booking aim is ,developed to create a new unique system for students consideration they can easily book tickets on 
+   ##### __Student Transportation Booking__ ia an web application that enables users(Students) to book their travelling tickets.
+   __Students Transportation Booking__ aim is ,developed to create a new unique system for students consideration they can easily book tickets on 
   their own without having to depend on middle persons and agents.__STUDENTS__ can make thier own decision to travel from their hometown 
   to respective location to study for that information this project has been implemented.
    
 ## Research
    #####  __Students Transportation Booking__ is a small project which is developed only in rail system, you may perform and develope 
-  this technique in air,car or bus tickets. You can add records with your unique college names, and secure payment methods here. 
-  Existing records can be viewed, designed, add extra information about your personal Id's.
+   this technique in air,car or bus tickets. You can add records with your unique college names, and secure payment methods here. 
+   Existing records can be viewed, designed, add extra information about your personal Id's.
     
 ## Features and Timeline
    ##### • Major activities of this booking systms is manual, Which increases its condition for booking tickets all over the country.  
