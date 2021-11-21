@@ -56,7 +56,7 @@
 ### High Level Requirements:
 | ID | Student ID | Student Discription | Status |
 |------|------| ------| ------|
-| HLR1 | Number of tickets |Students Select the no of tickets | Implementd next
+| HLR1 | Number of tickets |Students Select the no of tickets | Implemented next
 | HLR2 |  Name  | Students enter their __Names__ | Implemented next
 | HLR3 | Gender | Students enter their __Gender__  | Implemented next
 | HLR4 | Age    | Students enter their __Age__  | Implemented next
