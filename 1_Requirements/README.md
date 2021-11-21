@@ -60,7 +60,7 @@
 | HLR2 |  Name  | Students enter their __Names__ | Implemented next
 | HLR3 | Gender | Students enter their __Gender__  | Implemented next
 | HLR4 | Age    | Students enter their __Age__  | Implemented next
-| HLR5 | Source | Students enter the __SourcePlace__   | Implementd next
+| HLR5 | Source | Students enter the __SourcePlace__   | Implemented next
 | HLR6|  Destination  | Students enter __Destinationplace__  | Implemented next
 | HLR7| Train | Students have the option to select the __Train to travel__  for different location | Implemented next
 
