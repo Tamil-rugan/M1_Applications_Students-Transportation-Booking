@@ -71,7 +71,7 @@
 | ID | Student ID | Student Discription | Status |
 |------|------| ------| ------|
 | LLR1 | seats | Students after selected seat number then booking is confirm page is dispalyed | Implemented next
-| LLR2 | Students View (SP) | The __Source Place__ is viewed | Implementd next
+| LLR2 | Students View (SP) | The __Source Place__ is viewed | Implemented next
 | LLR3 | Students View (DP) | The __Destination Place__ is viewd | Implemented next
 | LLR4 | Students Travel Amount | Students travelling __Amount__ will be displayed after completion of selecting seat process | Implemented next
 | LLR5 | Students Final View | __Thank you__ message will indicate to exit the process of bookings Implemented next
