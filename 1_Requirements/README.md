@@ -76,7 +76,8 @@
 | LLR4 | Students Travel Amount | Students travelling __Amount__ will be displayed after completion of selecting seat process | Implemented next
 | LLR5 | Students Final View | __Thank you__ message will indicate to exit the process of bookings | Implemented next
 
-### High Level Test
+### High Level Test :
+
 | ID | Key | Student Discription | Expected output | Actual output | pass/Fail
 |------|------| ------| ------|
 | TID1 | Number of tickets |Students Select the no of tickets | Success | Success | Pass |
@@ -87,7 +88,8 @@
 | TID1|  Destination  | Students enter __Destinationplace__  | Success | Success | Pass |
 |TID1| Train | Students have the option to select the __Train to travel__  for different location | Success | Success | Pass |
 
-### low Level Test
+### low Level Test :
+
 | ID | Key | Student Discription | Expected output | Actual output | pass/Fail
 |------|------| ------| ------|
 | LLR1 | seats | Students after selected seat number then booking is confirm page is dispalyed | Success | Success | Pass |
