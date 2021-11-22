@@ -75,7 +75,8 @@
 | LLR3 | Students View (DP) | The __Destination Place__ is viewd | Implemented next
 | LLR4 | Students Travel Amount | Students travelling __Amount__ will be displayed after completion of selecting seat process | Implemented next
 | LLR5 | Students Final View | __Thank you__ message will indicate to exit the process of bookings | Implemented next
-|
+
+
 | ID | Key | Student Discription | Expected output | Actual output | pass/Fail
 |------|------| ------| ------|
 | TID1 | Number of tickets |Students Select the no of tickets | Success | Success | Pass |
