@@ -217,7 +217,7 @@ void UnityPrintNumberByStyle(const UNITY_INT number, const UNITY_DISPLAY_STYLE_T
                 UNITY_OUTPUT_CHAR('x');
                 UnityPrintNumberHex((UNITY_UINT)number, 2);
             }
-            UNITY_OUTPUT_CHAR('\'');
+            UNITY_OUTPUT_CHAR('\\'');
         }
         else
         {
