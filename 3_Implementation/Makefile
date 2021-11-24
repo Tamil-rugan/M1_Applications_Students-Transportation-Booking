@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Students
+PROJECT_NAME = Booking
 
 #Doxyfile folder
 DOC = doc
@@ -10,7 +10,7 @@ src/operations.c
 
 # All test source files
 TEST_SRC = src/operations.c\
-test/test.c\
+test/test_operations.c\
 unity/unity.c\
 
 TEST_OUTPUT = Test_$(PROJECT_NAME).out
@@ -51,7 +51,3 @@ test:$(BUILD)
 coverageCheck: 
 	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
-
-# Remove all the built files, invoke by `make clean`
-clean:
-	rm -rf $(PROJECT_OUTPUT) $(TEST_OUTPUT) $(DOCUMENTATION_OUTPUT)
