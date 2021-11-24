@@ -1,16 +1,16 @@
 # Name of the project
-PROJECT_NAME = Billing
+PROJECT_NAME = Students
 
 #Doxyfile folder
 DOC = doc
 
 # All source code files
 SRC = main.c\
-src/functions.c
+src/operation.c
 
 # All test source files
-TEST_SRC = src/functions.c\
-test/test_functions.c\
+TEST_SRC = src/operation.c\
+test/test_operation.c\
 unity/unity.c\
 
 TEST_OUTPUT = Test_$(PROJECT_NAME).out
