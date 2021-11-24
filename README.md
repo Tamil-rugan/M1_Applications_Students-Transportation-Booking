@@ -20,4 +20,4 @@
 
 ![Code Quality](https://api.codiga.io/project/29919/score/svg)
 
-1[Code Grade[(https://api.codiga.io/project/29919/status/svg)
+![Code Grade[(https://api.codiga.io/project/29919/status/svg)
