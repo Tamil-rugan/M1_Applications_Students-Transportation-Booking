@@ -23,3 +23,5 @@
 ![Code Grade](https://api.codiga.io/project/29919/status/svg)
 
 [![C/C++ CI - Build Status](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/c-cpp.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/gitinspector.yml)
