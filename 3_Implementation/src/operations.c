@@ -1,7 +1,22 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include"main.h"
+#include"header.h"
+
+// Defining Structure
+typedef struct mynode {
+	char name[20];
+	char gen[6];
+	int age;
+	struct mynode* link;
+} Node;
+
+Node* start = NULL;
+
+// Global variables
+char source[20], des[20], train[40];
+char station[40], cla[40];
+int time1, time2, a[55];
 
 // Function for calculation of amount
 int cal(int y1, int y2, int h)
