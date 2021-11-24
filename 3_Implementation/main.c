@@ -1,7 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include"main.h"
+#include "header.h"
+
+// Global variables
+char source[20], des[20], train[40];
+char station[40], cla[40];
+int time1, time2, a[55];
 
 // Driver Code
 void main()
@@ -135,4 +140,3 @@ void main()
 	// and amount argument
 	bill(d, j);
 }
-
