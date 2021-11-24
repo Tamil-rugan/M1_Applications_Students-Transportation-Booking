@@ -4,9 +4,9 @@
   their own without having to depend on middle persons and agents.__STUDENTS__ can make thier own decision to travel from their hometown 
   to respective location to study for that information this project has been implemented.
   
-| Code Quality | Code Grade |
-|------| ------|
- | [![Code Quality - Static Code - Cppcheck](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cc0e180aadbd4c63bfbb5fafbb3d9f98)](https://www.codacy.com/gh/Tamil-rugan/M1_Applications_Students_Transportation_Booking/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Tamil-rugan/M1_Applications_Students_Transportation_Booking&amp;utm_campaign=Badge_Grade) |
+Build| Code Quality | Code Grade | Git Inspector |
+|---| ---| ---| ---|
+[![C/C++ CI - Build Status](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cc0e180aadbd4c63bfbb5fafbb3d9f98)](https://www.codacy.com/gh/Tamil-rugan/M1_Applications_Students_Transportation_Booking/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Tamil-rugan/M1_Applications_Students_Transportation_Booking&amp;utm_campaign=Badge_Grade) ![Code Quality](https://api.codiga.io/project/29919/score/svg) ![Code Grade](https://api.codiga.io/project/29919/status/svg) | [![Contribution Check - Git Inspector](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/gitinspector.yml) |
   
   # Folder Structure
 | Folder   |      Description     |  
@@ -18,10 +18,9 @@
 | 5_Report |    Documentation of whole project  | 
 | 6_Images |    All the images of this project  |
 
-![Code Quality](https://api.codiga.io/project/29919/score/svg)
 
-![Code Grade](https://api.codiga.io/project/29919/status/svg)
 
-[![C/C++ CI - Build Status](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/c-cpp.yml)
 
-[![Contribution Check - Git Inspector](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/gitinspector.yml)
+
+
+
