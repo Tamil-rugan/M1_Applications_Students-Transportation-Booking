@@ -56,23 +56,23 @@
 ### High Level Requirements:
 | ID | Student ID | Student Discription | Status |
 |------|------| ------| ------|
-| HLR1 | Number of tickets |Students Select the no of tickets | Implemented next
-| HLR2 |  Name  | Students enter their __Names__ | Implemented next
-| HLR3 | Gender | Students enter their __Gender__  | Implemented next
-| HLR4 | Age    | Students enter their __Age__  | Implemented next
-| HLR5 | Source | Students enter the __SourcePlace__   | Implemented next
-| HLR6|  Destination  | Students enter __Destinationplace__  | Implemented next
-| HLR7| Train | Students have the option to select the __Train to travel__  for different location | Implemented next
+| HLR1 | Number of tickets |Students Select the no of tickets | Implemented 
+| HLR2 |  Name  | Students enter their __Names__ | Implemented 
+| HLR3 | Gender | Students enter their __Gender__  | Implemented 
+| HLR4 | Age    | Students enter their __Age__  | Implemented
+| HLR5 | Source | Students enter the __SourcePlace__   | Implemented 
+| HLR6|  Destination  | Students enter __Destinationplace__  | Implemented
+| HLR7| Train | Students have the option to select the __Train to travel__  for different location | Implemented 
 
 ### Low Level Requirements:
 
 | ID | Student ID | Student Discription | Status |
 |------|------| ------| ------|
-| LLR1 | seats | Students after selected seat number then booking is confirm page is dispalyed | Implemented next
-| LLR2 | Students View (SP) | The __Source Place__ is viewed | Implemented next
-| LLR3 | Students View (DP) | The __Destination Place__ is viewd | Implemented next
-| LLR4 | Students Travel Amount | Students travelling __Amount__ will be displayed after completion of selecting seat process | Implemented next
-| LLR5 | Students Final View | __Thank you__ message will indicate to exit the process of bookings | Implemented next
+| LLR1 | seats | Students after selected seat number then booking is confirm page is dispalyed | Implemented 
+| LLR2 | Students View (SP) | The __Source Place__ is viewed | Implemented 
+| LLR3 | Students View (DP) | The __Destination Place__ is viewd | Implemented 
+| LLR4 | Students Travel Amount | Students travelling __Amount__ will be displayed after completion of selecting seat process | Implemented
+| LLR5 | Students Final View | __Thank you__ message will indicate to exit the process of bookings | Implemented 
 
 
 
