@@ -17,3 +17,7 @@
 | 4_TestPlan |  Documents with test plans |
 | 5_Report |    Documentation of whole project  | 
 | 6_Images |    All the images of this project  |
+
+![Code Quality](https://api.codiga.io/project/29919/score/svg)
+
+1[Code Grade[(https://api.codiga.io/project/29919/status/svg)
