@@ -7,6 +7,9 @@
   # Code Quality
   [![Code Quality - Static Code - Cppcheck](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Tamil-rugan/M1_Applications_Students_Transportation_Booking/actions/workflows/cppcheck.yml)
   
+  # Code Grade
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cc0e180aadbd4c63bfbb5fafbb3d9f98)](https://www.codacy.com/gh/Tamil-rugan/M1_Applications_Students_Transportation_Booking/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Tamil-rugan/M1_Applications_Students_Transportation_Booking&amp;utm_campaign=Badge_Grade)
+  
   # Folder Structure
 | Folder   |      Description     |  
 |----------|:-------------:|
