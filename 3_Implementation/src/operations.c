@@ -154,8 +154,8 @@ void bill(int y, int j)
 		puts(ptr->name);
 		printf("\t\t%dst Students Gender: ", i);
 		puts(ptr->gen);
-		printf("\t\t%dst students Age: %d\n\n", i,
-			ptr->age);
+		printf("\t\t%dst students Age: %d\n\n", i);
+		puts(ptr->age);
 		ptr = ptr->link;
 	}
 	printf("\t\tSource Place: ");
