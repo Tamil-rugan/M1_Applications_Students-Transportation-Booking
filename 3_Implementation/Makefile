@@ -10,7 +10,7 @@ src/operations.c
 
 # All test source files
 TEST_SRC = src/operations.c\
-test/test.c\
+test/test.c/operations.c\
 unity/unity.c\
 
 TEST_OUTPUT = Test_$(PROJECT_NAME).out
