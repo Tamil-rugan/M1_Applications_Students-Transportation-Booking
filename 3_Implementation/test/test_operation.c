@@ -4,8 +4,8 @@
 #include "declaration.h"
 #define PROJECT_NAME "Booking"
 
-void void details(int);
-void void bill(int, int);
+void details(int);
+void bill(int, int);
 
 void setUp()
 {
@@ -14,7 +14,7 @@ void tearDown()
 {
 }
 
-void void details(int);
+void details(int);
 {
    int i, a;
 	char val[20], gen[6];
@@ -23,7 +23,7 @@ void void details(int);
     TEST_ASSERT_EQUAL_STRING("123",userpwd);
     
 }
-void void bill(int, int);
+ void bill(int, int);
 {
     int prize1=700,prize2=900;
     TEST_ASSERT_EQUAL(700,change_prize(prize1));
@@ -33,7 +33,7 @@ void void bill(int, int);
 int main(void)
 {
   UNITY_BEGIN();
-  RUN_TEST(test_login);
-  RUN_TEST(test_change_prize);
+  RUN_TEST(details);
+  RUN_TEST( bill);
   return UNITY_END();
 }
