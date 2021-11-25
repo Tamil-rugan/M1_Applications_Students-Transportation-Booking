@@ -19,21 +19,24 @@ void details(int);
    int i, a;
 	char val[20], gen[6];
 	for (i = 1; i <= k; i++)
-    TEST_ASSERT_EQUAL_STRING("tanuja",username);
-    TEST_ASSERT_EQUAL_STRING("123",userpwd);
+    TEST_ASSERT_EQUAL_STRING("Students Name",i);
+    TEST_ASSERT_EQUAL_STRING("Students Age" , i);
+   
     
 }
  void bill(int, int);
 {
-    int prize1=700,prize2=900;
-    TEST_ASSERT_EQUAL(700,change_prize(prize1));
-    TEST_ASSERT_EQUAL(900,change_prize(prize2));
+    int i;
+	Node* ptr = start;
+	for (i = 1; i <= j; i++)
+    TEST_ASSERT_EQUAL(("\t\t\%dst Students Name: ", i);
+    TEST_ASSERT_EQUAL("students Age: ", i);
 }
 
 int main(void)
 {
   UNITY_BEGIN();
   RUN_TEST(details);
-  RUN_TEST( bill);
+  RUN_TEST(bill);
   return UNITY_END();
 }
