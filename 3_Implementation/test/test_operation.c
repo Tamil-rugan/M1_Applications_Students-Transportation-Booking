@@ -2,10 +2,10 @@
 #include "declaration.h"
 
 #include "declaration.h"
-#define PROJECT_NAME "Movie_Ticket_Booking"
+#define PROJECT_NAME "Booking"
 
-void test_login(void);
-void test_change_prize(void);
+void void details(int);
+void void bill(int, int);
 
 void setUp()
 {
@@ -14,15 +14,16 @@ void tearDown()
 {
 }
 
-void test_login(void)
+void void details(int);
 {
-    char username[10]="tanuja", userpwd[10]="123";
-    //TEST_ASSERT_EQUAL_STRING(0,("tanuja","123"));
+   int i, a;
+	char val[20], gen[6];
+	for (i = 1; i <= k; i++)
     TEST_ASSERT_EQUAL_STRING("tanuja",username);
     TEST_ASSERT_EQUAL_STRING("123",userpwd);
     
 }
-void test_change_prize(void)
+void void bill(int, int);
 {
     int prize1=700,prize2=900;
     TEST_ASSERT_EQUAL(700,change_prize(prize1));
